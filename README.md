@@ -8,7 +8,7 @@ Unzip's a zipped,password protected file with given list of passwords.
 
 
 
-2)The program and the zipped file must be in th same diretory
+2)The program and the zipped file must be in th same directory
 
 
 Acknowledgement:
